@@ -1,5 +1,6 @@
 package myapp;
 
 public class Cat {
-    public String nickname;
+    public String name;
+
 }
